@@ -1,1 +1,2 @@
 # shell
+I implemented the shell of an operating system in C and C++ that has all the basic functionalities such as listing all directories, navigating into other directories, creating output files, environment variables, and wildcard expansion. The program had three processes; one for parsing the commands, one for executing, and one for displaying the output. This was part of my Systems Programming coursework.
